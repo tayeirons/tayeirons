@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, People 👋 !
 
-<!--
-**tayeirons/tayeirons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif)
 
-Here are some ideas to get you started:
+I'm Jane, a passionate and aspiring programmer exploring the world of coding. 🚀 Here's a bit about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Python and diving into the exciting world of C++.
+- 💻 Enthusiast about software development, algorithms, and problem-solving.
+- 🐍 Python lover, but also embracing the challenges of C++.
+- 🤔 Always eager to learn and collaborate on interesting projects.
+- 📚 Constantly expanding my knowledge and skills in the vast field of programming.
+
+## Technologies and Tools:
+- 🐍 Python | 💻 C++ | 🌐 Web Development
+- 🧠 Always open to exploring new technologies and frameworks.
+
+## Connect with Me:
+[![GitHub](https://img.shields.io/badge/GitHub-YourGitHub-green?style=flat&logo=github)](YourGitHubProfile)
